@@ -3,38 +3,44 @@ title: MTAppjQuery
 layout: default
 ---
 
-## Overview
+## 概要
 
-MTAppjQuery is a Movable Type Plugin. This helps you easily customize dashboard of Movable Type.
+Movable Type の管理画面を jQuery の簡単な記述でカスタマイズすることができるプラグインです。Perl の知識は不要です。
 
-## Prerequisites
+## 動作条件
 
 * Movable Type 6
 
-## Pricing
+## 料金
 
-### Free plan
+「無料プラン」と「商用プラン」の２つを用意し、Movable Type 本体のライセンスを基準に区分けしています。
+
+### 無料プラン
+
+個人無償ライセンス、開発者ライセンスの Movable Type と組み合わせる場合はこちらになります。
 
 No asking, take your own risk.  
 
-* view description of new document
+* 新ドキュメントサイトの概要部分のみ閲覧可能（新ドキュメントサイトは近日公開予定）
 
-### Business plan
+### 商用プラン
 
-Business plan is for all commercial websites.
+商用ライセンスの Movable Type と組み合わせる場合は以下の内容になります。
 
-* 10,000(+tax) / 1 install(site)
-* support by email(for 6 month)
-* view new document
-* digital data of document (ePub, mobi, PDF)
-* view new tips site
+* 10,000円（＋税） / 1インストール（サイト）
+* メールサポート（6ヶ月間）
+* 新ドキュメントサイト全て閲覧可能（新ドキュメントサイトは近日公開予定）
+* 新ドキュメントサイトデジタルデータ（ePub、mobi、PDF）
+* 逆引きドキュメント閲覧可能
+* アップデートのご案内
+* スニペット（今後追加予定）
 
-Buy license below link.
+ライセンスの購入はこれまでのマニュアル購入と同様にお願いいたします。
 
 bit part shop  
 [http://bitpart.thebase.in/](http://bitpart.thebase.in/)
 
-For creator plan, please [contact](http://bit-part.net/contact/) us.
+制作者さま、制作会社さま向けのサブスクリプション・プランもご用意していますので詳しくは[お問い合わせ](http://bit-part.net/contact/)ください。
 
 ---
 
