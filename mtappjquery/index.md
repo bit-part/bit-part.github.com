@@ -88,7 +88,13 @@ No asking, take your own risk.
 bit part shop  
 [http://bitpart.thebase.in/](http://bitpart.thebase.in/)
 
-制作者さま、制作会社さま向けのサブスクリプション・プランもご用意していますので詳しくは[お問い合わせ](http://bit-part.net/contact/)ください。
+制作者さま、制作会社さま向けのプランも検討していますので詳しくは[お問い合わせ](http://bit-part.net/contact/)ください。
+
+## 更新履歴
+
+更新履歴  
+<https://github.com/tinybeans/mt-plugin-MTAppjQuery/releases>
+
 
 ---
 
