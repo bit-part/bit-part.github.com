@@ -1,5 +1,6 @@
 ---
 title: MTAppjQuery
+layout: default
 ---
 
 [Japanese](README.ja.md)
