@@ -16,42 +16,42 @@ Movable Type の管理画面を jQuery の簡単な記述でカスタマイズ�
 ![JSONTable](https://document.bit-part.net/mtappjquery/assets/images/2014109-115459.png)  
 JSONTable
 
-![FieldSort](https://document.bit-part.net/mtappjquery/assets/images/MTAppFieldSort-01-thumb-x.png)
+![FieldSort](https://document.bit-part.net/mtappjquery/assets/images/MTAppFieldSort-01-thumb-x.png)  
 FieldSort
 
 ### ユーザーの入力サポート
 
 デフォルトではチェックボックスで選択するカテゴリーの選択を変更したり、カテゴリを必ず選択してもらうようにアラートを出したり、項目を選択してもらうチェックボックスを用意したりすることで、ユーザーが間違いなく情報を登録することが出来ます。
 
-![MTAppOtherTypeCategories](https://document.bit-part.net/mtappjquery/assets/images/MTAppOtherTypeCategories-select.png)
+![MTAppOtherTypeCategories](https://document.bit-part.net/mtappjquery/assets/images/MTAppOtherTypeCategories-select.png)  
 MTAppOtherTypeCategories
 
-![MTAppHasCategory](https://document.bit-part.net/mtappjquery/assets/images/MTAppHasCategory01.png)
+![MTAppHasCategory](https://document.bit-part.net/mtappjquery/assets/images/MTAppHasCategory01.png)  
 MTAppHasCategory
 
-![MTAppMultiCheckbox](https://document.bit-part.net/mtappjquery/assets/images/MTAppMultiCheckbox01.png)
+![MTAppMultiCheckbox](https://document.bit-part.net/mtappjquery/assets/images/MTAppMultiCheckbox01.png)  
 MTAppMultiCheckbox
 
-![MTAppSuggest](https://document.bit-part.net/mtappjquery/assets/images/MTAppSuggest-01.png)
+![MTAppSuggest](https://document.bit-part.net/mtappjquery/assets/images/MTAppSuggest-01.png)  
 MTAppSuggest
 
-![MTAppshowHint](https://document.bit-part.net/mtappjquery/assets/images/MTAppshowHint-01.png)
+![MTAppshowHint](https://document.bit-part.net/mtappjquery/assets/images/MTAppshowHint-01.png)  
 MTAppshowHint
 
 ### オリジナル管理画面
 
 管理画面のメインカラム、サブカラムに好きなウィジェット（HTML）を追加することができ、Movable Type 標準の見た目を損なうことなく、オリジナルな項目を増やすことが出来ます。
 
-![MTAppMakeField](https://document.bit-part.net/mtappjquery/assets/images/MTAppMakeField01.png)
+![MTAppMakeField](https://document.bit-part.net/mtappjquery/assets/images/MTAppMakeField01.png)  
 MTAppMakeField
 
-![MTAppMakeWidget](https://document.bit-part.net/mtappjquery/assets/images/MTAppMakeWidget01.png)
+![MTAppMakeWidget](https://document.bit-part.net/mtappjquery/assets/images/MTAppMakeWidget01.png)  
 MTAppMakeWidget
 
 ### 再構築を簡単に
 
 テンプレート一覧画面で再構築を1clickで行う事が出来ます。
-![MTApp1clickRebuild](https://document.bit-part.net/mtappjquery/assets/images/MTApp1clickRebuild.png)
+![MTApp1clickRebuild](https://document.bit-part.net/mtappjquery/assets/images/MTApp1clickRebuild.png)  
 MTApp1clickRebuild
 
 
