@@ -3,8 +3,6 @@ title: MTAppjQuery
 layout: default
 ---
 
-[Japanese](README.ja.md)
-
 ## Overview
 
 MTAppjQuery is a Movable Type Plugin. This helps you easily customize dashboard of Movable Type.
